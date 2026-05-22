@@ -9,6 +9,7 @@
 
 
 | **STACK TECNOLÓGICO** | **HERRAMIENTAS Y LIBRERÍAS** |
+| :--- |  :---: |
 | MANIPULACIÓN DE DATOS |  pandas, numpy |
 | VISUALIZACIÓN | seaborn, matplotlib |
 | MACHINE LEARNING |  scikit-learn |
