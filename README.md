@@ -47,5 +47,3 @@ Al no transparentar de forma clara por qué ciertos proyectos ganan y otros se d
 | **NOTEBOOKS** | `jupyter lab` |
 | **API/SERVE** | `fastapi`, `uvicorn` |
 
-b |
-| API/SERVE |  fastapi, uvicorn |
